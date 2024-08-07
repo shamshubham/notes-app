@@ -1,7 +1,3 @@
-Certainly! Here is the updated README with the added images:
-
----
-
 # 📝 Notes Application
 
 Welcome to the **Notes Application**—your digital notebook for jotting down and managing your ideas, reminders, and to-dos. This intuitive and easy-to-use app allows you to create, edit, and delete notes effortlessly. Plus, thanks to browser local storage, your notes will be preserved even after you refresh the page.
